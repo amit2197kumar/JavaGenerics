@@ -6,6 +6,10 @@
 
 [Java Generics Example Tutorial – Generic Method, Class, Interface](https://www.journaldev.com/1663/java-generics-example-method-class-interface#java-generics-bounded-type-parameters)
 
+[Java Generics In-Depth](https://www.javabrains.io/courses/take/java-generics-in-depth/lessons/11425695-message-from-the-instructor)
+
+[https://www.javabrains.io/certificates/4l0xhcqiw6](https://www.javabrains.io/certificates/4l0xhcqiw6)
+
 # Before and after Java 5.0
 
 ```java
